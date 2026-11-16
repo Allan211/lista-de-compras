@@ -1,4 +1,6 @@
 1 banana
 12 goiabas
 4 macas 
-6 mexericas
+pamonha
+feijao
+picanha
